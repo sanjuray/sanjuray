@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjuray
+- 👋 Hi, I’m @sanju_garimella
 - 👀 I’m interested in manythings
 - 🌱 I’m currently learning android Dev
 - 💞️ I’m looking to collaborate on ...
