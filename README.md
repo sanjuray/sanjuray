@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanju_garimella
 - 👀 I’m interested in manythings
 - 🌱 I’m currently learning android Dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ->mail: sanjugarimella@gmail.com
 
 <!---
