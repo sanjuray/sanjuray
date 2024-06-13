@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sanjugarimella@gmail.com**
 
-- 📄 Know about my experiences <a link="https://docs.google.com/document/d/1edJ2NO-7eXdX32pPs33TPirLOiknzZHmlwX2b_k_Oe0/edit"> **SG's Resume** </a>
+- 📄 Know about my experiences <a target="_blank" href="https://docs.google.com/document/d/1edJ2NO-7eXdX32pPs33TPirLOiknzZHmlwX2b_k_Oe0/edit"> SG's Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
